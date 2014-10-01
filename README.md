@@ -2,11 +2,13 @@ BuscarTextoEnTablas
 ===================
 
 BuscarTextoEnTablas
+-------------------
 
 Es un procedimiento almacenado desarrollado para SQL Server diseñado par buscar una cadena de texto especifica ya sea en todas las tabals o en un conjunto de tablas.
 
 
 SINTAXIS:
+---------
 
 -Si se buscara el texto en todas las tablas:
 				
@@ -21,5 +23,6 @@ SINTAXIS:
 -Opcionalmente se puede especificar 1 despues del texto para indicar si se requiere mostrar el query generado en la pestaña de "Mensajes". Si no se indica nada automaticamente asume que no se requiere.	 
 
 REFERENCIAS:
+------------
 								
 -Basado en la idea y trabajo de Narayana Vyas Kondreddi [SearchAllTables/http://vyaskn.tripod.com/search_all_columns_in_all_tables.htm]			
