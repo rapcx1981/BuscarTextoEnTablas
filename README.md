@@ -1,8 +1,6 @@
 BuscarTextoEnTablas
 ===================
 
-BuscarTextoEnTablas
--------------------
 
 Es un procedimiento almacenado desarrollado para SQL Server diseñado para buscar una cadena de texto especifica ya sea en todas las tabals o en un conjunto de tablas.
 
